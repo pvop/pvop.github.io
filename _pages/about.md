@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education">Education</h2>
 * <small> Institute of Information Engineering, Chinese Academy of Sciences, China  
-Ph.D. in Cyber Security, Advisor: Yuan Zhou  
+Master in Cyber Security, Advisor: YongZheng Zhang  
 09/2017 - 06/2020 (expected)<small>
 
 * <small> Northwestern Polytechnical University, China  
@@ -53,5 +53,5 @@ B.S. in Information Security
 
 <h2 id="publication">Publication</h2>
 * <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
-Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
+**Hui Liu**, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen.  
 The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/Conferences/AAAI-20/)), New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
