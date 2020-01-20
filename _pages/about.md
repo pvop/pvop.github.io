@@ -37,20 +37,17 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="news">News!</h2>
 * <small> 11/2019: One full paper accepted to AAAI 2020!</small>
-* <small> 11/2019: One full paper accepted to ICICS 2019!</small>
-* <small> 09/2019: The [networking conference statistics](/conf-stat) is live!</small>
-* <small> 07/2019: One full paper accepted to ICNP 2019!</small>
 
 <h2 id="research">Research</h2>
-<small> Hi, I am Yige Chen, a third-year Ph.D. candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My Ph.D. major is in Cyber Security. I received my Bachelor's degree in Information Security from [Xidian University](https://www.xidian.edu.cn/), China.</small>
-<small>My research interests are primarily in the area of Network Traffic Analysis.</small>
+<small> Hi, I am Hui Liu, a master candidate at [Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)](http://http://www.iie.ac.cn/), China. My major is in Natural Language Processing. I received my Bachelor's degree in Information Security from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), China.</small>
+<small>My research interests are primarily in the area of Natural Language Processing.</small>
 
 <h2 id="education">Education</h2>
 * <small> Institute of Information Engineering, Chinese Academy of Sciences, China  
 Ph.D. in Cyber Security, Advisor: Yuan Zhou  
-09/2017 - 06/2022 (expected)<small>
+09/2017 - 06/2020 (expected)<small>
 
-* <small> Xidian University, China  
+* <small> Northwestern Polytechnical University, China  
 B.S. in Information Security  
 09/2013 - 06/2017<small>
 
@@ -58,11 +55,3 @@ B.S. in Information Security
 * <small>**<font color="#5b9bd5">[AAAI'20]</font> Joint Character Embedding and Adversarial Stability Training to Defend Adversarial Text.**  
 Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, **Yige Chen**.  
 The Thirty-Fourth AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/Conferences/AAAI-20/)), New York, New York, USA, February 2020. Full paper acceptance rate: 1591/7737 = 20.6%.<small>
-
-* <small>**<font color="#5b9bd5">[ICNP'19]</font> Rethinking Encrypted Traffic Classification: A Multi-Attribute Associated Fingerprint Approach.**  
-**Yige Chen**, Tianning Zang, Yongzheng Zhang, Yuan Zhou, Yipeng Wang.  
-The 27th IEEE International Conference on Network Protocols ([ICNP](https://icnp19.cs.ucr.edu/)), Chicago, Illinois, USA, October 2019. Full paper acceptance rate: 29/212 = 13.7%. ([pdf](https://icnp19.cs.ucr.edu/proceedings/MainConference/FullPapers/icnp2019-final23.pdf)) ([slides](./files/icnp2019-rethinking.pdf))<small>
-
-* <small>**<font color="#5b9bd5">[ICICS'19]</font> DLchain: a Covert Channel over Blockchain based on Dynamic Labels.**  
-Jing Tian, Gaopeng Gou, Chang Liu, **Yige Chen**, Gang Xiong, Zhen Li.  
-The 2019 International Conference on Information and Communications Security ([ICICS](http://www.icics.cn/)), Beijing, China, December 2019. Full paper acceptance rate: 48/199 = 24.1%.<small>
