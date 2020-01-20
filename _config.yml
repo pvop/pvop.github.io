@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yige Chen"
+title                    : "Hui Liu"
 title_separator          : "-"
-name                     : &name "Yige Chen"
+name                     : &name "Hui Liu"
 description              : &description "personal description"
-url                      : https://ychen.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pvop.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://192.168.110.79 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yigechen1/yigechen1.github.io"
+repository               : "pvop/pvop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yige Chen (陈一阁)"
+  name             : "Hui Liu (刘辉)"
   avatar           : "profile_new.png"
-  bio              : "Ph.D. candidate at Institute of Information Engineering, Chinese Academy of Sciences"
+  bio              : "I am currently pursuing the Master degree at Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=WBO8MpQAAAAJ&hl=en"
-  email            : "chenyige@iie.ac.cn, yigechen01@gmail.com"
+  googlescholar    : "xx"
+  email            : "liuhui@iie.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yigechen1"
+  github           : "pvop"
   google_plus      :
   keybase          :
   instagram        :
