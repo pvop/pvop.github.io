@@ -4,8 +4,6 @@ main:
     url: /#research
   - title: "Publication"
     url: /#publication
-  - title: "Networking Conference Statistics"
-    url: /conf-stat
 #  - title: "CV"
 #    url: /files/cv.pdf
 
