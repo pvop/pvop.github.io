@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2 id="education">Education</h2>
 * <small> Institute of Information Engineering, Chinese Academy of Sciences, China  
-Master in Cyber Security, Advisor: Yongzheng Zhang  
+Master in Natural Language Processing, Advisor: Yongzheng Zhang  
 09/2017 - 06/2020 (expected)<small>
 
 * <small> Northwestern Polytechnical University, China  
